@@ -11,10 +11,10 @@
 carpentry: 'lc'
 
 # Overall title for pages.
-title: 'Library Carpentry: SQL'
+title: 'SQL Introduction'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2018-04-12'
+created: '2026-08-11'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -24,16 +24,16 @@ keywords: 'software, data, lesson, The Carpentries'
 life_cycle: 'stable'
 
 # License of the lesson materials (recommended CC-BY 4.0)
-license: 'CC-BY 4.0'
+license: 'CC BY-NC-SA 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/librarycarpentry/lc-sql'
+source: 'https://kubdatalab.github.io/sql-intro/'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'kubdatalab@kb.dk'
 
 # Navigation ------------------------------------------------
 #
@@ -87,6 +87,5 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://librarycarpentry.github.io/lc-sql'
-analytics: carpentries
+url: 'https://kubdatalab.github.io/sql-intro'
 lang: en
