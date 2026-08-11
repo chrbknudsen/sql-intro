@@ -46,7 +46,13 @@
     <loc>https://kubdatalab.github.io/sql-intro/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://kubdatalab.github.io/sql-intro/aio.html</loc>
+  </url>
+  <url>
     <loc>https://kubdatalab.github.io/sql-intro/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://kubdatalab.github.io/sql-intro/images.html</loc>
   </url>
   <url>
     <loc>https://kubdatalab.github.io/sql-intro/index.html</loc>
@@ -97,16 +103,34 @@
     <loc>https://kubdatalab.github.io/sql-intro/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://kubdatalab.github.io/sql-intro/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://kubdatalab.github.io/sql-intro/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://kubdatalab.github.io/sql-intro/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://kubdatalab.github.io/sql-intro/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://kubdatalab.github.io/sql-intro/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://kubdatalab.github.io/sql-intro/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://kubdatalab.github.io/sql-intro/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://kubdatalab.github.io/sql-intro/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://kubdatalab.github.io/sql-intro/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://kubdatalab.github.io/sql-intro/key-points.html</loc>
   </url>
   <url>
     <loc>https://kubdatalab.github.io/sql-intro/profiles.html</loc>
