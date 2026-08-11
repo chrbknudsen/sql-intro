@@ -1,0 +1,83 @@
+{
+  "contributors": [
+    {
+      "type": "Editor",
+      "name": "Christopher Erdmann",
+      "orcid": "0000-0003-2554-180X"
+    },
+    {
+      "type": "Editor",
+      "name": "Jesse Lambertson",
+      "orcid": "0000-0001-8105-1800"
+    },
+    {
+      "type": "Editor",
+      "name": "Julika Mimkes",
+      "orcid": "0000-0003-0550-8818"
+    },
+    {
+      "type": "Editor",
+      "name": "Jacqueline Frisina"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Jesse Lambertson",
+      "orcid": "0000-0001-8105-1800"
+    },
+    {
+      "name": "Christopher Erdmann",
+      "orcid": "0000-0003-2554-180X"
+    },
+    {
+      "name": "Kristin Lee"
+    },
+    {
+      "name": "Julika Mimkes",
+      "orcid": "0000-0003-0550-8818"
+    },
+    {
+      "name": "Lise Doucette"
+    },
+    {
+      "name": "Jordan Pedersen"
+    },
+    {
+      "name": "Jacqueline Frisina"
+    },
+    {
+      "name": "Jesse Lambertson",
+      "orcid": "0000-0001-8105-1800"
+    },
+    {
+      "name": "Sarah Lynn Fisher"
+    },
+    {
+      "name": "Elizabeth McAulay",
+      "orcid": "0000-0002-8679-9727"
+    },
+    {
+      "name": "Siobhan Dunlop"
+    },
+    {
+      "name": "Ian van der Linde",
+      "orcid": "0000-0001-9232-9599"
+    },
+    {
+      "name": "Jens Nieschulze"
+    },
+    {
+      "name": "Jessica Simpson"
+    },
+    {
+      "name": "RonHLEb"
+    },
+    {
+      "name": "Scott Carl Peterson",
+      "orcid": "0000-0002-1920-616X"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}
