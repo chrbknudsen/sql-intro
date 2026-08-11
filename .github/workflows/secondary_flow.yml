@@ -64,4 +64,3 @@ jobs:
 
           git commit -m "Opdateret filer på gh-pages"
           git push
-  
